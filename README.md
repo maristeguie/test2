@@ -1,6 +1,3 @@
 ##tuutu
 Helloooooo
-
-byeee
-
-asj
+cambioen GITHUB
